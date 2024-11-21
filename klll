@@ -1,0 +1,17 @@
+\
+├── ARSENAL
+│   ├── run.exe
+│   └── readme.doc
+└── GAMES
+    └── WAR3
+        └── RATINGS
+            ├── 03100.rtc
+            ├── 018001.rtc
+            └── 022000.rtc
+└── PASCAL
+    ├── BP
+    │   └── BIN
+    │       └── bp.exe
+    └── RTL
+        └── UNITS
+            └── windows.txt
