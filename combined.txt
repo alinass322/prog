@@ -1,0 +1,17 @@
+echo Команда IF используется для выполнения условных операторов в пакетных файлах. > bat_file\if_help.txt
+echo Синтаксис: >> bat_file\if_help.txt
+echo   IF <условие> <действие> >> bat_file\if_help.txt
+echo Пример: >> bat_file\if_help.txt
+echo   IF EXIST "file.txt" echo Файл существует. >> bat_file\if_help.txtecho Команда GOTO используется для перехода к метке в сценарии. > bat_file\goto_help.txt
+echo Синтаксис: >> bat_file\goto_help.txt
+echo   GOTO <метка> >> bat_file\goto_help.txt
+echo Пример: >> bat_file\goto_help.txt
+echo   GOTO начало >> bat_file\goto_help.txtecho Команда IF используется для выполнения условных операторов в пакетных файлах. > bat_file\if_help.txt
+echo Синтаксис: >> bat_file\if_help.txt
+echo   IF <условие> <действие> >> bat_file\if_help.txt
+echo Пример: >> bat_file\if_help.txt
+echo   IF EXIST "file.txt" echo Файл существует. >> bat_file\if_help.txtecho Команда GOTO используется для перехода к метке в сценарии. > bat_file\goto_help.txt
+echo Синтаксис: >> bat_file\goto_help.txt
+echo   GOTO <метка> >> bat_file\goto_help.txt
+echo Пример: >> bat_file\goto_help.txt
+echo   GOTO начало >> bat_file\goto_help.txt

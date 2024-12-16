@@ -1,0 +1,5 @@
+echo Команда IF используется для выполнения условных операторов в пакетных файлах. > bat_file\if_help.txt
+echo Синтаксис: >> bat_file\if_help.txt
+echo   IF <условие> <действие> >> bat_file\if_help.txt
+echo Пример: >> bat_file\if_help.txt
+echo   IF EXIST "file.txt" echo Файл существует. >> bat_file\if_help.txt

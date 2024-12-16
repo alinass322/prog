@@ -1,0 +1,2 @@
+echo Команда GOTO используется для перехода к указанной метке в файле. > bat_file\goto_info.txt
+echo Синтаксис: GOTO [метка] >> bat_file\goto_info.txt
