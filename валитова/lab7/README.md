@@ -1,4 +1,5 @@
 # Лабораторная работа №7
+
 ## Задание 
 
 1. Напишите две функции для решения задач своего варианта - с использованием рекурсии и без.
@@ -7,7 +8,9 @@
 - Описание проделанной работы
 - Скриншоты результатов
 - Ссылки на используемые материалы
+- 
 ## Вариант 4 
+
 * Функция для преобразования вложенных списков в строку:
 ```py
 >>> to_str([1, [2, [3, [4, [5]]]]])
@@ -39,11 +42,8 @@ print(result2)
 print(result3)
       
 ```
-### Результат работы программы
-
-
-
-
+### Результат:
+![ф1](https://github.com/user-attachments/assets/57773c81-eec1-4a9b-b5a1-d37fa9102f21)
 
 ### Без рекурсии.
 ```py
@@ -73,9 +73,8 @@ print(to_str([]))
 print(to_str([1, [2]]))
 
 ```
-### Результат работы программы
-
-
+### Результат:
+![ф2](https://github.com/user-attachments/assets/9ceb700e-dc42-4ad8-8809-440f3ebee6ea)
 
 * Функция для расчёта
 $a_i = a_{i-2}+\frac{a_{i-1}}{2^{i-1}}. a_0=a_1=1$
@@ -90,11 +89,11 @@ def calculate_a_iterative(n):
 result_iterative = calculate_a_iterative(5)
 print(result_iterative)
 ```
-### Результат работы программы
-
-
+### Результат:
+![ф3](https://github.com/user-attachments/assets/51d9e182-bece-450d-9617-960590b7c5b3)
 
 ### Без рекурсии.
+
 ```py
 
 def calculate_sequence(n):
@@ -107,7 +106,9 @@ def calculate_sequence(n):
 result = calculate_sequence(5)
 print(result)
 ```
-### Результат работы программы
+### Результат:
+![ф4](https://github.com/user-attachments/assets/1f5668f5-59a1-41d3-8c66-d4c3c1913cb7)
+
 
 
 
