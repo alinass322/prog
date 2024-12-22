@@ -109,6 +109,11 @@ print(result)
 ### Результат:
 ![ф4](https://github.com/user-attachments/assets/1f5668f5-59a1-41d3-8c66-d4c3c1913cb7)
 
+# Ссылки на источники: 
+1. https://youtu.be/IJDJ0kBx2LM
+2. https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-13-rekursivnye-funkcii-2023-01-23
+3. https://habr.com/ru/articles/337030/
+
 
 
 
