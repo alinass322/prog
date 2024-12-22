@@ -86,6 +86,6 @@ while count < 5:
 
 # Ссылки на источники: 
 
-https://habr.com/ru/companies/otus/articles/529356/
-https://docs.python.org/3/library/itertools.html
-https://proglib.io/p/iteriruemsya-pravilno-20-priemov-ispolzovaniya-v-python-modulya-itertools-2020-01-03
+1. https://habr.com/ru/companies/otus/articles/529356/
+2. https://docs.python.org/3/library/itertools.html
+3. https://proglib.io/p/iteriruemsya-pravilno-20-priemov-ispolzovaniya-v-python-modulya-itertools-2020-01-03
