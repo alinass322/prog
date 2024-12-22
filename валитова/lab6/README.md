@@ -84,4 +84,8 @@ while count < 5:
 ### Результат:
 ![ск3](https://github.com/user-attachments/assets/6a3be1ac-eab7-44e6-aa9e-3725d5b6740e)
 
+# Ссылки на источники: 
 
+https://habr.com/ru/companies/otus/articles/529356/
+https://docs.python.org/3/library/itertools.html
+https://proglib.io/p/iteriruemsya-pravilno-20-priemov-ispolzovaniya-v-python-modulya-itertools-2020-01-03
