@@ -103,6 +103,11 @@ print(unique_values(5, 6, 7, 8, 1, 2, 3, 4))
 ### Результат:
 ![й3](https://github.com/user-attachments/assets/68f02b5c-0941-474d-913c-99e0afa92a4f)
 
+# Ссылки на источники: 
+1. https://devpractice.ru/closures-in-python/?ysclid=m4zu473ojs530173051
+2. https://www.geeksforgeeks.org/python-closures/?ysclid=m4zu4jyfao245740076
+3. https://wiki.python.org/moin/PythonDecorators
+
 
 
 
