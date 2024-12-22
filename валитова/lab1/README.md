@@ -83,5 +83,5 @@ int main() {
 ![ч](https://github.com/user-attachments/assets/e54a69ff-bfd1-4caa-959a-b4632d16801f)
 
 # Ссылки на источники:
-https://evil-teacher.on-fleek.app/prog_pm/term1/lab01/
-https://programforyou.ru/block-diagram-redactor?ysclid=m4ztu4wvc748077863
+1. https://evil-teacher.on-fleek.app/prog_pm/term1/lab01/
+2. https://programforyou.ru/block-diagram-redactor?ysclid=m4ztu4wvc748077863
