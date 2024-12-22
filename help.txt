@@ -1,7 +1,0 @@
-echo echo - выводит сообщения. > bat_file\help.txt
-echo dir - показывает содержимое каталога. >> bat_file\help.txt
-echo cls - очищает экран. >> bat_file\help.txt
-echo cd - изменяет текущий каталог. >> bat_file\help.txt
-echo exit - завершает выполнение программы. >> bat_file\help.txt
-echo if - условная команда для выполнения блоков. >> bat_file\help.txt
-echo goto - переход к метке в сценарии. >> bat_file\help.txt
