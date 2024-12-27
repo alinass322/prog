@@ -113,6 +113,17 @@ int main(){
 #Результат: 
 ![1r](https://github.com/user-attachments/assets/40c15641-07da-4c3f-abd5-fd79c79c3c5e)
 
+### Источники:
+1. https://pythonist.ru/massiv-v-python/?ysclid=m56nfxgkft390163750
+2. https://docs.python.org/3/tutorial/datastructures.html
+3. https://pythoninfo.ru/osnovy/massivy-python
+
+
+
+
+
+
+
 
 
 
