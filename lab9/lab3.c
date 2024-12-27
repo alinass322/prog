@@ -1,26 +1,3 @@
-# Лабораторная работа №3
-
-## Задание
-
-Сложность: Rare
-    
- 1. Напишите программу по своему варианту.
- 2. Оформите отчёт в README.md. Отчёт должен содержать:
- 2.1 Задание
- 2.2 Описание проделанной работы
- 2.3 Скриншоты результатов
- 2.4 Ссылки на используемые материалы
-
-## Этапы работы
-### 1. Задание по Варианту №4
-`
-Максимально эффективно по используемой памяти сформировать массив из элементов, встречающихся в обоих массивах A и B.
-`
-
-### 2. Код
-
-
-``` c
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -109,22 +86,3 @@ int main(){
     newc(n,A,B);
     return 0;
 }
-```
-#Результат: 
-![1r](https://github.com/user-attachments/assets/40c15641-07da-4c3f-abd5-fd79c79c3c5e)
-
-### Источники:
-1. https://pythonist.ru/massiv-v-python/?ysclid=m56nfxgkft390163750
-2. https://docs.python.org/3/tutorial/datastructures.html
-3. https://pythoninfo.ru/osnovy/massivy-python
-
-
-
-
-
-
-
-
-
-
-
