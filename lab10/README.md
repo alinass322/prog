@@ -16,6 +16,7 @@
 
 ![1p](https://github.com/user-attachments/assets/fdaec796-b80b-4943-a828-24ede58f5aa6)
 
+## 4 вариант
 ##### Лабораторная работа №7
 ```py
 def to_str(input_list, is_outer=True,):
