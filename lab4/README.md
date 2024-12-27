@@ -8,11 +8,12 @@
   
 Некоторые скриншоты программ:
 
-1.3 1
+0.1 1
 ![Снимок экрана 2024-12-27 171053](https://github.com/user-attachments/assets/1dfa6bb2-edaf-4347-8d40-d3a4bd4343e3)
 2
 ![Снимок экрана 2024-12-27 171254](https://github.com/user-attachments/assets/4630e1a3-9de5-4bed-b663-5179cc3c1fa9)
 
+04
 ![Снимок экрана 2024-12-27 172021](https://github.com/user-attachments/assets/060613b6-de58-4b60-8121-dc788cd02001)
 
 ![Снимок экрана 2024-12-27 172252](https://github.com/user-attachments/assets/c41a8ffc-fc23-4a4b-9cae-643099c21493)
