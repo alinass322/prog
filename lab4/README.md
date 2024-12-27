@@ -40,6 +40,9 @@
 
 ![Снимок экрана 2024-12-27 174019](https://github.com/user-attachments/assets/ae786641-15e8-4e96-8db5-212f971315b3)
 
+![Снимок экрана 2024-12-27 174843](https://github.com/user-attachments/assets/15131b71-184b-478c-9559-230e0d966bbc)
+
+
 
 ## 10_store
 
