@@ -13,10 +13,16 @@
 2
 ![Снимок экрана 2024-12-27 171254](https://github.com/user-attachments/assets/4630e1a3-9de5-4bed-b663-5179cc3c1fa9)
 
-04
+04 
+1 
+
 ![Снимок экрана 2024-12-27 172021](https://github.com/user-attachments/assets/060613b6-de58-4b60-8121-dc788cd02001)
 
+2 
+
 ![Снимок экрана 2024-12-27 172252](https://github.com/user-attachments/assets/c41a8ffc-fc23-4a4b-9cae-643099c21493)
+
+0.2
 
 ![Снимок экрана 2024-12-27 173821](https://github.com/user-attachments/assets/f6b91471-d194-404f-879e-9e43a7b579ba)
 
